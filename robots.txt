@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://codsunlocker.github.io/Monopoly-GO-Free-Dice-Codes-Today/sitemap.xml
